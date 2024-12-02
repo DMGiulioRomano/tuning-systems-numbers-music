@@ -1,2 +1,2 @@
-# tuning-systems-numbers-music
-A computational study of historical tuning systems based on The Numbers of Music by Walter Branchi, with Python algorithms for generating and analyzing intonation systems.
+# Historical Tuning Systems - Python Algorithms Inspired by Walter Branchi's The Numbers of Music
+This repository provides a computational exploration of historical tuning systems as described in Walter Branchi's The Numbers of Music. Using Python, it implements algorithms to generate, analyze, and understand the mathematical principles behind intonation systems. Ideal for musicians, researchers, and anyone interested in historical and spectral tuning methods.
